@@ -1,0 +1,9 @@
+Package: com.frostbitee08.8tracksnoads
+Name: 8tracks No Ads
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disable Ads in the 8tracks app
+Maintainer: Rocco Del Priore
+Author: Rocco Del Priore
+Section: Tweaks
