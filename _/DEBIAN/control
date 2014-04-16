@@ -1,10 +1,10 @@
-Package: com.frostbitee08.8tracksnoads
+Package: com.frostbitee08.8TracksLimitless
 Name: 8tracks No Ads
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Disable Ads in the 8tracks app
+Description: Disables Ads and Enables Unlimited Skips in the iPhone 8TracksApp.
 Maintainer: Rocco Del Priore
 Author: Rocco Del Priore
 Section: Tweaks
-Version: 0.0.1-10
-Installed-Size: 16
+Version: 1.0-1
+Installed-Size: 12
